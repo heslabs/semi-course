@@ -6,7 +6,7 @@
 * [Udemy - Top Raspberry Pi Courses Online](https://www.udemy.com/topic/raspberry-pi/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.ROW-English&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=Data_Science&priority=Alpha&utm_content=deal4584&utm_term=_._ag_162511579084_._ad_696197165271_._kw__._de_c_._dm__._pl__._ti_dsa-1677974310676_._li_9198178_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSAkLiXlR4MQnQ1QnOc-94qebnPh2HUAvrf90u9L-cd4op5S7m_JrTgaAjuVEALw_wcB)
 * [Coursera - Best Raspberry Pi Courses & Certificates](https://www.coursera.org/courses?query=raspberry%20pi)
 * [Reddit: Raspberry Pi Projects Hub](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
-* [Tom's Hardware: Best Raspberry Pi Projects: November 2024] (https://www.tomshardware.com/features/best-raspberry-pi-projects)
+* [Tom's Hardware: Best Raspberry Pi Projects November 2024](https://www.tomshardware.com/features/best-raspberry-pi-projects)
   
 ---
 ## Raspberry Pi FoundationL Free Online Courses | Learn Python

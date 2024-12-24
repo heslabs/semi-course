@@ -10,9 +10,7 @@
 ## Harvard CS249r: Tiny Machine Learning (TinyML)
 * Prof. Vijay Janapa Reddi
 * https://scholar.harvard.edu/vijay-janapa-reddi/classes
-
-## Course Overview
-* https://sites.google.com/g.harvard.edu/cs249-tinyml-2023
+* Course Overview: https://sites.google.com/g.harvard.edu/cs249-tinyml-2023
 
 ## Book: AI at the Edge
 * https://www.oreilly.com/library/view/ai-at-the/9781098120191/

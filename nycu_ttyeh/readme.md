@@ -4,7 +4,7 @@
 * Class Lab Website: https://nycu-caslab.github.io/AAML2024 
 
 ---
-## NYCU Edge AI workshop (Arm Cortex-M55+Ethos-U55) Recorded Video
+## NYCU Edge AI workshop (Arm Cortex-M55+Ethos-U55): Recorded Video
 
 * Himax 邊緣 AI ARM Ethos-U55 NPU 硬體架構與開發工具介紹
   * https://www.youtube.com/live/_zEvCgWZNCo?si=dXwrJGRUWLKg4QzH
@@ -16,6 +16,7 @@
   * https://www.youtube.com/live/21H84MlJz4Q?si=_F1UxiLTUljKAg2v
 
 --- 
+## NYCU Edge AI workshop (Arm Cortex-M55+Ethos-U55): Slides
 * Creating Memory Efficient Hardware and Software for TinyML Inference
   * https://docs.google.com/presentation/d/1a29-ulz4h1YXZPRjmaFQXyXCEgEOP54GoisrzCSoDsA/mobilepresent?slide=id.g2f749d129bb_1_37
 * Deploy Models on Fixed Virtual Platform (FVP)
@@ -24,7 +25,6 @@
   * https://docs.google.com/presentation/d/1xX2CcFrKgkMBP7ib-rgaaCBJPuv4gY6chppq2hIcNNU/mobilepresent?slide=id.g25e1cde8a29_1_33
 
 ---
-
 ## Tsung Tai Yeh (ttyeh@cs.nycu.edu.tw)
 * https://www.cs.nycu.edu.tw/~ttyeh/
 * Research Interest: Computer Architecture, GPU, AI Chip System Design

@@ -1,5 +1,6 @@
 ## Raspberry Pi Projects
 * [Hackster: Vision-Language Models (VLM) at the Edge](https://www.hackster.io/mjrobot/vision-language-models-vlm-at-the-edge-9c6656)
+* [EdgeAI — LLaVA on Raspberry Pi 5 (Multimodal Model)](https://medium.com/@thommaskevin/edgeai-llava-on-raspberry-pi-5-multimodal-model-a4ac96dc6845)
 * [Reddit: Raspberry Pi Projects Hub](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
 * [Tom's Hardware: Best Raspberry Pi Projects November 2024](https://www.tomshardware.com/features/best-raspberry-pi-projects)
   

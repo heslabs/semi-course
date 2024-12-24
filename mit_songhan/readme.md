@@ -4,8 +4,6 @@
   * Domain-Specific Optimization
   * Efficient Training
   * Advanced Topics
-
-MIT韓松教授的免費線上課程「TinyML and Efficient Deep Learning Computing」，內含四大主軸，23個章節，45個教學影片（ 
  
 ---
 ## Resource

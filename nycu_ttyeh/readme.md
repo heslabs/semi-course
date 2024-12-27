@@ -1,7 +1,21 @@
 ## Accelerator Architectures for Machine Learning
 * https://people.cs.nycu.edu.tw/~ttyeh/course/2024_Fall/IOC5009/outline.html 
 * Lecturer: Tsung Tai Yeh (ttyeh@cs.nycu.edu.tw), NYCU
-* Class Lab Website: https://nycu-caslab.github.io/AAML2024 
+* Class Lab Website: https://nycu-caslab.github.io/AAML2024
+
+---
+* Basics of AI Accelerator
+* Large Language Model
+* Quantization Pruning and Sparsity
+* Systolic Accelerator
+* Digital AI Accelerator
+* GPGPU Architecture
+* GPU Tensor Core
+* Sparse DNN Accelerator
+* Chiplet Accelerator
+* Analog ML Accelerator
+* TinyML Acceleration Architecture
+* Tenstorrent - Building AI Silicon [[Youtube]](https://www.youtube.com/watch?v=KOHQQyAKY14)
 
 ---
 ## NYCU Edge AI workshop (Arm Cortex-M55+Ethos-U55): Recorded Video

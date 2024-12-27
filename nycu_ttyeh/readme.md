@@ -4,6 +4,7 @@
 * Class Lab Website: https://nycu-caslab.github.io/AAML2024
 
 ---
+### Slides
 * Basics of AI Accelerator [[PDF]](https://drive.google.com/file/d/1A9t8R0_h2akKQyFuZsCfLInKCozqQnuP/view?usp=drive_link)
 * Large Language Model [[PDF]](https://drive.google.com/file/d/1WyDEAk60G5m85lIus2HrEsmsi8ufigKt/view?usp=drive_link)
 * Quantization [[PDF]](https://drive.google.com/file/d/1HurfiaRscpgMd97jkzbP9xAj6wAE75tB/view?usp=drive_link)
@@ -16,6 +17,7 @@
 * Chiplet Accelerator [[PDF]](https://drive.google.com/file/d/1MT6b7kpthLtzSHdEwHx6OueuzCwKZbxE/view?usp=drive_link)
 * Analog ML Accelerator [[PDF]]()
 * TinyML Acceleration Architecture [[PDF]](https://drive.google.com/file/d/1FBPHZyiSMzgjyJrj0wcWJGORWcqZ-Scv/view?usp=drive_link)
+### Reference
 * CFU Playground [[PDF]](https://drive.google.com/file/d/1FBPHZyiSMzgjyJrj0wcWJGORWcqZ-Scv/view?usp=drive_link)
 * Tenstorrent - Building AI Silicon [[Youtube]](https://www.youtube.com/watch?v=KOHQQyAKY14)
 
